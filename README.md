@@ -22,3 +22,7 @@ Tech Stack:
 
 The best part?
  It’s personalized. You get immediate, actionable feedback based on exactly how you speak.
+
+
+https://github.com/user-attachments/assets/b52c8eba-13c6-4b31-bcb0-458c626c018b
+
